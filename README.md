@@ -2,7 +2,7 @@
 
 Public audit reports by ForgeAudit Security Firm.
 
-🌐 [forgeaudit.com](https://forgeaudit.com) · 
+🌐 [forgeaudit.com](https://forgeaudit.io) · 
 🐦 [@ForgeAudit](https://x.com/ForgeAudit) · 
 ✉ forgeaudit.contact@gmail.com
 
