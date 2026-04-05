@@ -19,7 +19,7 @@ Public audit reports by ForgeAudit Security Firm.
 ## Contact
 
 Interested in a security audit?
-Fill out our request form at [forgeaudit.com](https://forgeaudit.com)
+Fill out our request form at [forgeaudit.io](https://forgeaudit.io)
 or email us at forgeaudit.contact@gmail.com
 
 *Finding vulnerabilities. Before attackers do.*
