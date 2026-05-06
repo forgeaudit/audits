@@ -4,7 +4,7 @@ Public audit reports by ForgeAudit Security Firm.
 
 🌐 [forgeaudit.io](https://forgeaudit.io) · 
 🐦 [@ForgeAudit](https://x.com/ForgeAudit) · 
-✉ forgeaudit.contact@gmail.com
+✉ contact@forgeaudit.io
 
 ---
 
@@ -20,6 +20,6 @@ Public audit reports by ForgeAudit Security Firm.
 
 Interested in a security audit?
 Fill out our request form at [forgeaudit.io](https://forgeaudit.io)
-or email us at forgeaudit.contact@gmail.com
+or email us at contact@forgeaudit.io
 
 *Finding vulnerabilities. Before attackers do.*
